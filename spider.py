@@ -1,5 +1,10 @@
 #!/bin/usr/env python3
 # -*- coding: utf-8 -*-
+"""
+This module provide configure file management service in i18n environment.
+Authors: lvguangxing
+Date:    2018/12/05 10:23:06
+"""
 
 # 爬取网站资源
 
